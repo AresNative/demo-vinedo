@@ -46,7 +46,7 @@ npx serve out
 
 ## Demo en vivo
 
-_Pendiente de publicar — se agregará el enlace de Firebase Hosting aquí._
+https://vinedo-eusebio.web.app
 
 ## Crédito
 
